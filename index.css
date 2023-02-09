@@ -3,23 +3,74 @@ ul
     list-style-type: none;
     
 }
-li
+.hl 
 {
     float: right;
 }
-li a
+.ba
 {
     display: box;
     color:black;
     text-align: center;
-    padding: 16PX 16PX;
+    padding: 16PX 21PX;
     font-weight: bold;
 }
 .img1
 {
     border-radius: 15px;
-    height: 435px;
-    width: 672px;
+    height: 459px;
+    width: 624px;
     margin-top: 26px;
 }
-
+#txt1
+{
+    margin-top: -326px;
+    margin-left: 666px;
+    line-height: 36px;
+    color: #040404a6;
+    font-size: 21px;
+    font-weight: 400;
+}
+#cl1
+{
+    margin-left: -168px;
+    margin-top: -106px;
+}
+#cl2
+{
+    margin-top: -370px;
+    margin-left: 159px;
+}
+#img1h1
+{
+    margin-top: -251px;
+    margin-left: 14px;
+    font-size: 75px;
+    color: white;
+    line-height: 59px;
+}
+#sechr
+{
+    margin-top: 45px;
+}
+#middletxt
+{
+    font-size: 21px;
+    line-height: 34px;
+    color: #040404a6;
+    text-align: center;
+}
+.fa
+{
+    display: box;
+    color:white;
+    text-align: center;
+    padding: 16PX 16PX;
+    
+}
+.fl
+{
+    float:left;
+    margin-top: 16px;
+    
+}
