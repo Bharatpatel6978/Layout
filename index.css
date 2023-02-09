@@ -1,0 +1,25 @@
+ul
+{
+    list-style-type: none;
+    
+}
+li
+{
+    float: right;
+}
+li a
+{
+    display: box;
+    color:black;
+    text-align: center;
+    padding: 16PX 16PX;
+    font-weight: bold;
+}
+.img1
+{
+    border-radius: 15px;
+    height: 435px;
+    width: 672px;
+    margin-top: 26px;
+}
+
