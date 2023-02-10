@@ -74,3 +74,20 @@ ul
     margin-top: 16px;
     
 }
+#cl3
+{
+    margin-left: 1474px;
+    margin-top: -434px;
+    width: 213px;
+}
+#antetxt
+{
+    margin-left: 1px;
+    margin-top: -168px;
+    background: white;
+    font-size: 26px;
+    position: absolute;
+    height: 167px;
+    width: 470px;
+    font-weight: bold;
+}
