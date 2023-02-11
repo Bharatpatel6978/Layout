@@ -76,9 +76,9 @@ ul
 }
 #cl3
 {
-    margin-left: 1474px;
+    margin-left: 1112px;
     margin-top: -434px;
-    width: 213px;
+    
 }
 #antetxt
 {
@@ -90,4 +90,43 @@ ul
     height: 167px;
     width: 470px;
     font-weight: bold;
+}
+#s3txt1
+{
+    position: absolute;
+    bottom: -26px;
+    background-color: white;
+    height: 153px;
+    width: 503px;
+    border-radius: 10px;
+    left: -9px;
+    padding-left: 22px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#s3txt2
+{
+    position: absolute;
+    background-color: white;
+    height: 153px;
+    width: 452px;
+    border-radius: 10px;
+    padding-left: 22px;
+    font-size: 24px;
+    font-weight: bold;
+    bottom: -22%;
+    left: -13px;
+}
+#s3txt3
+{
+    position: absolute;
+    background-color: white;
+    height: 121px;
+    width: 452px;
+    border-radius: 10px;
+    padding-left: 22px;
+    font-size: 24px;
+    font-weight: bold;
+    bottom: -108%;
+    left: -13px;
 }
